@@ -1,11 +1,10 @@
 import tkinter as tk
 import random
-#hello 
-
 
 GRID_SIZE = 3
 CANVAS_SIZE = 300
 
+# This code was generated uning ChatGPT
 class ColorGame:
     def __init__(self, root):
         self.root = root
