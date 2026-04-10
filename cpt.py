@@ -1,6 +1,7 @@
 import tkinter as tk
 import random
-#hello lillian
+#hello 
+
 
 GRID_SIZE = 3
 CANVAS_SIZE = 300
